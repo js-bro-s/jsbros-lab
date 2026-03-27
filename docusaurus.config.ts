@@ -93,18 +93,23 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Learn",
+          title: "Lessons 1–5",
           items: [
-            { label: "Lesson 1 — Intro", to: "/lessons/lesson-01-intro" },
-            {
-              label: "Lesson 2 — Git",
-              to: "/lessons/lesson-02-github-workflow",
-            },
-            {
-              label: "Lesson 3 — Studio",
-              to: "/lessons/lesson-03-roblox-studio-intro",
-            },
-            { label: "Lesson 4 — Lua", to: "/lessons/lesson-04-lua-basics" },
+            { label: "1 — Intro", to: "/lessons/lesson-01-intro" },
+            { label: "2 — Git", to: "/lessons/lesson-02-github-workflow" },
+            { label: "3 — Studio", to: "/lessons/lesson-03-roblox-studio-intro" },
+            { label: "4 — Lua Basics", to: "/lessons/lesson-04-lua-basics" },
+            { label: "5 — Loops", to: "/lessons/lesson-05-loops" },
+          ],
+        },
+        {
+          title: "Lessons 6–10",
+          items: [
+            { label: "6 — Functions", to: "/lessons/lesson-06-functions" },
+            { label: "7 — Tables", to: "/lessons/lesson-07-tables" },
+            { label: "8 — First Game", to: "/lessons/lesson-08-first-game" },
+            { label: "9 — GUI", to: "/lessons/lesson-09-gui" },
+            { label: "10 — Sounds & Effects", to: "/lessons/lesson-10-sounds-effects" },
           ],
         },
         {
