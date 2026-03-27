@@ -80,7 +80,7 @@ export default function Home(): ReactNode {
         </div>
       </header>
 
-      <main className="container" style={{ padding: "3rem 0" }}>
+      <main className="container" style={{ padding: "3rem" }}>
         <div className={styles.cardGrid}>
           {cards.map((card) => (
             <div key={card.title} className={styles.card}>

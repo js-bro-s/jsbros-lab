@@ -1,3 +1,7 @@
+---
+displayed_sidebar: null
+---
+
 # JS Bros Lab — Progress Tracker
 
 Update this file after each lesson. Check off what's been completed.

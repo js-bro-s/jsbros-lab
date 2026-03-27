@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 
 # 1️⃣ Create the GitHub Organization (Correct Way)
 

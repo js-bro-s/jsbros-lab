@@ -4,17 +4,13 @@ sidebar_position: 2
 
 # Exercise 02: Variables & Score Tracker
 
-```lua
--- ============================================
--- Exercise 02: Variables & Score Tracker
--- Lesson: 4 | Difficulty: Beginner
--- ============================================
--- GOAL: Track a player's score using variables
---       and print different messages based on it.
---
--- PUT THIS SCRIPT IN: ServerScriptService
--- ============================================
+**Lesson:** 4 | **Difficulty:** Beginner
 
+**Goal:** Track a player's score using variables and print different messages based on it.
+
+**Put this script in:** `ServerScriptService`
+
+```lua
 -- TODO 1: Create a variable called `score` and set it to 0
 -- Hint: local score = ???
 
@@ -36,9 +32,7 @@ sidebar_position: 2
 --   "Keep going!" if score < 10
 
 
--- ============================================
 -- Try changing the score value and see what prints!
--- ============================================
 
 -- SOLUTION --
 --[[

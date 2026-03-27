@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # JS Bros Lab — Lesson 1  
 
-<img src="assets/banner.png" alt="JS Bros Banner" height="500" />
+<img src="img/jsbros-lab-banner-alt.png" alt="JS Bros Banner" height="500" />
 
 
 ## Getting Started: What We’re Building & How We Work

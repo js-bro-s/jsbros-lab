@@ -6,7 +6,7 @@ const config: Config = {
   title: "JS Bros Lab",
   tagline: "Learn to build. Build to learn.",
   favicon: "img/favicon.ico",
-
+  staticDirectories: ["public", "static"],
   future: {
     v4: true,
   },
@@ -48,7 +48,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/jsbros-social.png",
+    image: "img/banner.png",
     colorMode: {
       defaultMode: "dark",
       respectPrefersColorScheme: true,
@@ -57,7 +57,7 @@ const config: Config = {
       title: "JS Bros Lab",
       logo: {
         alt: "JS Bros Logo",
-        src: "img/logo.svg",
+        src: "img/js-bros-lab-favicon-neon.svg",
       },
       items: [
         {
@@ -96,25 +96,46 @@ const config: Config = {
           title: "Learn",
           items: [
             { label: "Lesson 1 — Intro", to: "/lessons/lesson-01-intro" },
-            { label: "Lesson 2 — Git", to: "/lessons/lesson-02-github-workflow" },
-            { label: "Lesson 3 — Studio", to: "/lessons/lesson-03-roblox-studio-intro" },
+            {
+              label: "Lesson 2 — Git",
+              to: "/lessons/lesson-02-github-workflow",
+            },
+            {
+              label: "Lesson 3 — Studio",
+              to: "/lessons/lesson-03-roblox-studio-intro",
+            },
             { label: "Lesson 4 — Lua", to: "/lessons/lesson-04-lua-basics" },
           ],
         },
         {
           title: "Practice",
           items: [
-            { label: "Ex 01 — Hello Roblox", to: "/exercises/ex-01-hello-roblox" },
-            { label: "Ex 02 — Variables", to: "/exercises/ex-02-variables-and-score" },
-            { label: "Ex 03 — Touch Event", to: "/exercises/ex-03-touch-and-color" },
+            {
+              label: "Ex 01 — Hello Roblox",
+              to: "/exercises/ex-01-hello-roblox",
+            },
+            {
+              label: "Ex 02 — Variables",
+              to: "/exercises/ex-02-variables-and-score",
+            },
+            {
+              label: "Ex 03 — Touch Event",
+              to: "/exercises/ex-03-touch-and-color",
+            },
           ],
         },
         {
           title: "JS Bros",
           items: [
             { label: "GitHub Org", href: "https://github.com/js-bro-s" },
-            { label: "Games", href: "https://github.com/js-bro-s/jsbros-games" },
-            { label: "Prints", href: "https://github.com/js-bro-s/jsbros-prints" },
+            {
+              label: "Games",
+              href: "https://github.com/js-bro-s/jsbros-games",
+            },
+            {
+              label: "Prints",
+              href: "https://github.com/js-bro-s/jsbros-prints",
+            },
           ],
         },
       ],

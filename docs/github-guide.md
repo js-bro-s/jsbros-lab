@@ -1,3 +1,7 @@
+---
+displayed_sidebar: null
+---
+
 # GitHub Guide for JS Bros
 
 > Git is how we save our work, share it, and never lose anything. This guide is your cheat sheet.

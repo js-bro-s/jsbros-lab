@@ -4,18 +4,13 @@ sidebar_position: 3
 
 # Exercise 03: Touch Event + Color Change
 
-```lua
--- ============================================
--- Exercise 03: Touch Event + Color Change
--- Lesson: 4 | Difficulty: Beginner-Intermediate
--- ============================================
--- GOAL: When a player touches a part, change its color
---       and print who touched it.
---
--- PUT THIS SCRIPT IN: A Part (inside the Workspace)
---   Right-click the Part → Insert Object → Script
--- ============================================
+**Lesson:** 4 | **Difficulty:** Beginner-Intermediate
 
+**Goal:** When a player touches a part, change its color and print who touched it.
+
+**Put this script in:** A Part inside the Workspace — right-click the Part → Insert Object → Script
+
+```lua
 -- TODO 1: Get a reference to the part this script lives in
 -- Hint: local part = script.???
 
@@ -32,10 +27,8 @@ sidebar_position: 3
 -- Hint: part.Touched:Connect(onTouch)
 
 
--- ============================================
 -- BONUS: Make the part change back to its original
 --        color after 2 seconds using task.wait(2)
--- ============================================
 
 -- SOLUTION --
 --[[
