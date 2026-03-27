@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>is-icon-blue-250</title>
+    <g id="1️⃣-Step-1---Place-Your-Icons-Here" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="is-icon-blue-250">
+            <rect id="Rectangle" fill="#0F172A" fill-rule="nonzero" x="0" y="0" width="250" height="250" rx="10"></rect>
+            <g id="js-icon-blue" transform="translate(84, 50)">
+                <text id="JS" font-family="FiraCodeNFM-Med, FiraCode Nerd Font Mono" font-size="32" font-weight="400" fill="#00CFFF">
+                    <tspan x="19.3076923" y="146">JS</tspan>
+                </text>
+                <polyline id="Path" stroke="#00FFB3" stroke-width="5" points="25.6361705 0 25.6361705 21.0649994 0 85.1751737 15.8985078 105 65.888743 105 83 85.1751737 59.0878357 21.0649994 59.0878357 0"></polyline>
+                <path d="M8,82.6943359 L13.2840251,89.4693254 L18.3950195,96.0224609 L63.3950195,96.0224609 L73.9838867,82.6943359 L69.2890625,71 C63.1342773,76.6090495 54.9147135,79.9576823 44.6303711,81.0458984 C34.3460286,82.1341146 22.1359049,82.6835938 8,82.6943359 Z" id="Path" fill="#00FFB3" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>
