@@ -1,2 +1,13 @@
+# Docusaurus
+.docusaurus
+build
+
+# Dependencies
+node_modules
+
+# OS
 .DS_Store
+
+# Logs
 .log
+*.log
