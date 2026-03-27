@@ -1,5 +1,5 @@
 ---
-draft: true
+sidebar_position: 7
 ---
 
 # JS Bros Lab — Lesson 7

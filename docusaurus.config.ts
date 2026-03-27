@@ -93,23 +93,24 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Lessons 1–5",
+          title: "Lessons 1–6",
           items: [
-            { label: "1 — Intro", to: "/lessons/lesson-01-intro" },
-            { label: "2 — Git", to: "/lessons/lesson-02-github-workflow" },
-            { label: "3 — Studio", to: "/lessons/lesson-03-roblox-studio-intro" },
-            { label: "4 — Lua Basics", to: "/lessons/lesson-04-lua-basics" },
-            { label: "5 — Loops", to: "/lessons/lesson-05-loops" },
+            { label: "01 · What We're Building", to: "/lessons/lesson-01-intro" },
+            { label: "02 · Writing with Markdown", to: "/lessons/lesson-02-markdown" },
+            { label: "03 · Git in Action", to: "/lessons/lesson-03-github-workflow" },
+            { label: "04 · Roblox Studio Basics", to: "/lessons/lesson-04-roblox-studio-intro" },
+            { label: "05 · Lua Basics", to: "/lessons/lesson-05-lua-basics" },
+            { label: "06 · Loops", to: "/lessons/lesson-06-loops" },
           ],
         },
         {
-          title: "Lessons 6–10",
+          title: "Lessons 7–11",
           items: [
-            { label: "6 — Functions", to: "/lessons/lesson-06-functions" },
-            { label: "7 — Tables", to: "/lessons/lesson-07-tables" },
-            { label: "8 — First Game", to: "/lessons/lesson-08-first-game" },
-            { label: "9 — GUI", to: "/lessons/lesson-09-gui" },
-            { label: "10 — Sounds & Effects", to: "/lessons/lesson-10-sounds-effects" },
+            { label: "07 · Functions", to: "/lessons/lesson-07-functions" },
+            { label: "08 · Tables & Lists", to: "/lessons/lesson-08-tables" },
+            { label: "09 · Build Your First Game", to: "/lessons/lesson-09-first-game" },
+            { label: "10 · GUI & Score Display", to: "/lessons/lesson-10-gui" },
+            { label: "11 · Sounds & Effects", to: "/lessons/lesson-11-sounds-effects" },
           ],
         },
         {
