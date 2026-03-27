@@ -74,18 +74,58 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: "doc",
-          id: "exercises/ex-01-hello-roblox",
-          label: "Ex 01 · Hello Roblox",
+          id: "exercises/ex-01-about-me",
+          label: "Ex 01 · About Me",
         },
         {
           type: "doc",
-          id: "exercises/ex-02-variables-and-score",
-          label: "Ex 02 · Variables & Score",
+          id: "exercises/ex-02-markdown-challenge",
+          label: "Ex 02 · Markdown Challenge",
         },
         {
           type: "doc",
-          id: "exercises/ex-03-touch-and-color",
-          label: "Ex 03 · Touch & Color",
+          id: "exercises/ex-03-git-practice",
+          label: "Ex 03 · Git Practice",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-04-studio-build",
+          label: "Ex 04 · Studio Build",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-05-lua-basics-challenge",
+          label: "Ex 05 · Lua Basics",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-06-loops-challenge",
+          label: "Ex 06 · Loops",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-07-functions-challenge",
+          label: "Ex 07 · Functions",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-08-tables-challenge",
+          label: "Ex 08 · Tables & Lists",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-09-game-extension",
+          label: "Ex 09 · Game Extension",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-10-gui-challenge",
+          label: "Ex 10 · GUI Challenge",
+        },
+        {
+          type: "doc",
+          id: "exercises/ex-11-effects-challenge",
+          label: "Ex 11 · Sounds & Effects",
         },
       ],
     },
