@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # JS Bros Lab — Lesson 1  
 
-![JS Bros Banner](../../static/img/jsbros-lab-banner-alt.png)
+![JS Bros Banner](../../static/img/js-bros-lab-banner-alt.png)
 
 ## Getting Started: What We’re Building & How We Work
 
