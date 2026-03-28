@@ -48,7 +48,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/banner.png",
+    image: "img/jsbros-lab-banner-alt.png",
     colorMode: {
       defaultMode: "dark",
       respectPrefersColorScheme: true,
@@ -95,10 +95,22 @@ const config: Config = {
         {
           title: "Lessons 1–6",
           items: [
-            { label: "01 · What We're Building", to: "/lessons/lesson-01-intro" },
-            { label: "02 · Writing with Markdown", to: "/lessons/lesson-02-markdown" },
-            { label: "03 · Git in Action", to: "/lessons/lesson-03-github-workflow" },
-            { label: "04 · Roblox Studio Basics", to: "/lessons/lesson-04-roblox-studio-intro" },
+            {
+              label: "01 · What We're Building",
+              to: "/lessons/lesson-01-intro",
+            },
+            {
+              label: "02 · Writing with Markdown",
+              to: "/lessons/lesson-02-markdown",
+            },
+            {
+              label: "03 · Git in Action",
+              to: "/lessons/lesson-03-github-workflow",
+            },
+            {
+              label: "04 · Roblox Studio Basics",
+              to: "/lessons/lesson-04-roblox-studio-intro",
+            },
             { label: "05 · Lua Basics", to: "/lessons/lesson-05-lua-basics" },
             { label: "06 · Loops", to: "/lessons/lesson-06-loops" },
           ],
@@ -108,9 +120,15 @@ const config: Config = {
           items: [
             { label: "07 · Functions", to: "/lessons/lesson-07-functions" },
             { label: "08 · Tables & Lists", to: "/lessons/lesson-08-tables" },
-            { label: "09 · Build Your First Game", to: "/lessons/lesson-09-first-game" },
+            {
+              label: "09 · Build Your First Game",
+              to: "/lessons/lesson-09-first-game",
+            },
             { label: "10 · GUI & Score Display", to: "/lessons/lesson-10-gui" },
-            { label: "11 · Sounds & Effects", to: "/lessons/lesson-11-sounds-effects" },
+            {
+              label: "11 · Sounds & Effects",
+              to: "/lessons/lesson-11-sounds-effects",
+            },
           ],
         },
         {

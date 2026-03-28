@@ -6,9 +6,9 @@ sidebar_position: 6
 
 ## Functions: Write Once, Use Anywhere
 
-**Duration:** 60 minutes
-**Prereq:** Lesson 5 complete
-**Goal:** Kids write their own functions, understand parameters and return values, and clean up their scripts
+- **Duration:** 60 minutes
+- **Prereq:** Lesson 5 complete
+- **Goal:** Kids write their own functions, understand parameters and return values, and clean up their scripts
 
 ---
 

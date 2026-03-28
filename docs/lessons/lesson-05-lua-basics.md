@@ -6,9 +6,9 @@ sidebar_position: 4
 
 ## Lua Basics: Make Your Game Do Something
 
-**Duration:** 60–75 minutes
-**Prereq:** Lessons 1–3 complete, Roblox Studio open with their place file
-**Goal:** Kids write their first working Lua scripts — print messages, use variables, react to events
+- **Duration:** 60–75 minutes
+- **Prereq:** Lessons 1–3 complete, Roblox Studio open with their place file
+- **Goal:** Kids write their first working Lua scripts — print messages, use variables, react to events
 
 ---
 

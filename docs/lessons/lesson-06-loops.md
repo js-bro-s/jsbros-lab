@@ -6,9 +6,9 @@ sidebar_position: 5
 
 ## Loops: Make Things Happen Over and Over
 
-**Duration:** 60 minutes
-**Prereq:** Lesson 4 complete
-**Goal:** Kids understand `for` and `while` loops and use them to do things in the 3D world
+- **Duration:** 60 minutes
+- **Prereq:** Lesson 4 complete
+- **Goal:** Kids understand `for` and `while` loops and use them to do things in the 3D world
 
 ---
 

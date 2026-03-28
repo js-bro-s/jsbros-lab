@@ -6,9 +6,9 @@ sidebar_position: 2
 
 ## Markdown: Writing That the Computer Can Read
 
-**Duration:** 45 minutes
-**Prereq:** Lesson 1 complete
-**Goal:** Kids understand what Markdown is, why we use it, and can write a proper README
+- **Duration:** 45 minutes
+- **Prereq:** Lesson 1 complete
+- **Goal:** Kids understand what Markdown is, why we use it, and can write a proper README
 
 ---
 
@@ -27,6 +27,7 @@ Open any GitHub repo and point to the README.
 Show plain text vs rendered Markdown side by side.
 
 **Plain text:**
+
 ```
 JS Bros Lab
 This is our coding lab. We learn git, roblox, and lua.
@@ -42,13 +43,16 @@ clone the repo and open it
 ---
 
 # JS Bros Lab
+
 This is our coding lab. We learn Git, Roblox, and Lua.
 
 ## Lessons
+
 - Lesson 1
 - Lesson 2
 
 ## How to Start
+
 Clone the repo and open it.
 
 ---
@@ -60,16 +64,19 @@ Clone the repo and open it.
 ## 15–30 min — The 8 Things You Actually Need
 
 **1. Headings — `#`**
+
 ```md
 # Big Heading
 ## Medium Heading
 ### Small Heading
 ```
+
 More `#` = smaller heading. Think of it like an outline.
 
 ---
 
-**2. Bold and Italic**
+### **2. Bold and Italic**
+
 ```md
 **this is bold**
 *this is italic*
@@ -77,7 +84,8 @@ More `#` = smaller heading. Think of it like an outline.
 
 ---
 
-**3. Lists**
+### **3. Lists**
+
 ```md
 - Item one
 - Item two
@@ -90,14 +98,16 @@ More `#` = smaller heading. Think of it like an outline.
 
 ---
 
-**4. Code**
+### **4. Code**
 
 Inline code uses backticks:
+
 ```md
 Use the `print()` function to show output.
 ```
 
 Code blocks use triple backticks:
+
 ````md
 ```lua
 local score = 0
@@ -105,31 +115,49 @@ print(score)
 ```
 ````
 
+Example:
+
+```lua
+local score = 0
+print(score)
+```
+
 ---
 
-**5. Links**
+### **5. Links**
+
 ```md
 [Click here](https://github.com/js-bro-s)
 ```
 
+Example:
+
+[Click this link](https://github.com/js-bro-s)
+
 ---
 
-**6. Images**
+### **6. Images**
+
 ```md
 ![Alt text](path/to/image.png)
 ```
 
+![Image](../../static/img/jsbros-icon.png)
+
 ---
 
-**7. Horizontal Rule**
+### **7. Horizontal Rule**
+
 ```md
 ---
 ```
+
 Creates a divider line.
 
 ---
 
-**8. Blockquote**
+### **8. Blockquote**
+
 ```md
 > "Nothing breaks forever in a lab."
 ```
@@ -147,6 +175,7 @@ Each kid writes a `README.md` for their own mini project folder. It must include
 - One image or link
 
 **Example structure:**
+
 ```md
 # My Garden Game
 
@@ -182,6 +211,7 @@ Open GitHub and show them the rendered README on the repo page.
 > "That file you just wrote is now the front page of your project on the internet."
 
 **Ask:**
+
 - "What's the difference between `#` and `##`?"
 - "How do you make a code block?"
 - "Where else have you seen Markdown used?" (Discord, Reddit, Notion, GitHub)

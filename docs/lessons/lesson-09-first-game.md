@@ -6,9 +6,9 @@ sidebar_position: 8
 
 ## Build Your First Mini Game: Coin Collector
 
-**Duration:** 90 minutes (or split across two sessions)
-**Prereq:** Lessons 1–7 complete
-**Goal:** Build a complete playable game using everything learned so far
+- **Duration:** 90 minutes (or split across two sessions)
+- **Prereq:** Lessons 1–7 complete
+- **Goal:** Build a complete playable game using everything learned so far
 
 ---
 

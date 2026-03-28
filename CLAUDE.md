@@ -1,5 +1,6 @@
 
 ## Git Workflow & Commit Rules
+
 - Use Conventional Commits format: `<type>(<scope>): <description>`
 - All commit messages must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format.
 - Format: `<type>(<scope>): <description>`

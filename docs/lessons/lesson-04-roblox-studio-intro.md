@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ## Roblox Studio: Your First Baseplate
 
-**Duration:** 60 minutes
-**Prereq:** Roblox Studio installed, Lessons 1–2 done
-**Goal:** Kids navigate Studio, place parts, and run their first playtest
+- **Duration:** 60 minutes
+- **Prereq:** Roblox Studio installed, Lessons 1–2 done
+- **Goal:** Kids navigate Studio, place parts, and run their first playtest
 
 ---
 
@@ -24,13 +24,13 @@ sidebar_position: 3
 
 ## 5–20 min — The Five Panels (Tour Only)
 
-| Panel | What It Does |
-|-------|-------------|
-| **Viewport** | 3D world — what players will see |
-| **Explorer** | The family tree of everything in the game |
-| **Properties** | Settings for whatever you clicked |
-| **Toolbox** | Free models and assets from Roblox |
-| **Output** | Where errors and print messages show up |
+| Panel          | What It Does                              |
+| -------------- | ----------------------------------------- |
+| **Viewport**   | 3D world — what players will see          |
+| **Explorer**   | The family tree of everything in the game |
+| **Properties** | Settings for whatever you clicked         |
+| **Toolbox**    | Free models and assets from Roblox        |
+| **Output**     | Where errors and print messages show up   |
 
 **Activity:** Each kid clicks something in the Explorer and reads what shows up in Properties.
 

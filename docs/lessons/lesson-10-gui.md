@@ -6,9 +6,9 @@ sidebar_position: 9
 
 ## GUI: Show Your Score on Screen
 
-**Duration:** 60 minutes
-**Prereq:** Lesson 8 complete (coin collector game)
-**Goal:** Add an on-screen score display to the coin collector game using Roblox GUI
+- **Duration:** 60 minutes
+- **Prereq:** Lesson 8 complete (coin collector game)
+- **Goal:** Add an on-screen score display to the coin collector game using Roblox GUI
 
 ---
 

@@ -4,15 +4,14 @@ sidebar_position: 1
 
 # JS Bros Lab — Lesson 1  
 
-<img src="img/jsbros-lab-banner-alt.png" alt="JS Bros Banner" height="500" />
-
+![JS Bros Banner](../../static/img/jsbros-lab-banner-alt.png)
 
 ## Getting Started: What We’re Building & How We Work
 
-**Duration:** 60 minutes  
-**Audience:** Beginners (kids)  
-**Role:** Dad as teacher, kids as students  
-**Tone:** Calm, curious, hands-on
+- **Duration:** 60 minutes  
+- **Audience:** Beginners (kids)  
+- **Role:** Dad as teacher, kids as students  
+- **Tone:** Calm, curious, hands-on
 
 ---
 
@@ -65,8 +64,8 @@ sidebar_position: 1
 2. A **commit** = save point
 3. **GitHub** = cloud backup + teamwork
 
-❌ No commands yet  
-✅ Understanding first
+> ❌ No commands yet  
+> ✅ Understanding first
 
 ---
 

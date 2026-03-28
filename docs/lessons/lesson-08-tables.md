@@ -6,9 +6,9 @@ sidebar_position: 7
 
 ## Tables: Storing Lists of Things
 
-**Duration:** 60 minutes
-**Prereq:** Lessons 5 & 6 complete
-**Goal:** Kids create tables, loop through them, and use them to store game data
+- **Duration:** 60 minutes
+- **Prereq:** Lessons 5 & 6 complete
+- **Goal:** Kids create tables, loop through them, and use them to store game data
 
 ---
 

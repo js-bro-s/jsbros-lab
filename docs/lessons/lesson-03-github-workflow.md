@@ -6,9 +6,9 @@ sidebar_position: 2
 
 ## Git in Action: Save Your Work Like a Pro
 
-**Duration:** 60 minutes
-**Prereq:** Lesson 1 complete, repo cloned locally
-**Goal:** Kids make their first real commit and push to GitHub
+- **Duration:** 60 minutes
+- **Prereq:** Lesson 1 complete, repo cloned locally
+- **Goal:** Kids make their first real commit and push to GitHub
 
 ---
 
@@ -60,12 +60,12 @@ Each kid:
 
 **Common problems:**
 
-| Problem | Fix |
-|---------|-----|
-| `git: command not found` | Git isn't installed — open terminal, run `git --version` |
-| Nothing shows in `git status` | They're in the wrong folder — `cd jsbros-lab` |
-| Commit message missing | Need quotes: `git commit -m "add about-me"` |
-| Push asks for login | Set up GitHub credentials first |
+| Problem                       | Fix                                                      |
+| ----------------------------- | -------------------------------------------------------- |
+| `git: command not found`      | Git isn't installed — open terminal, run `git --version` |
+| Nothing shows in `git status` | They're in the wrong folder — `cd jsbros-lab`            |
+| Commit message missing        | Need quotes: `git commit -m "add about-me"`              |
+| Push asks for login           | Set up GitHub credentials first                          |
 
 ---
 

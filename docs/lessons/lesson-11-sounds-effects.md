@@ -6,9 +6,9 @@ sidebar_position: 10
 
 ## Sounds & Effects: Make Your Game Feel Alive
 
-**Duration:** 60 minutes
-**Prereq:** Lessons 8 & 9 complete
-**Goal:** Add sounds, color tweens, and particle effects to the coin game
+- **Duration:** 60 minutes
+- **Prereq:** Lessons 8 & 9 complete
+- **Goal:** Add sounds, color tweens, and particle effects to the coin game
 
 ---
 
