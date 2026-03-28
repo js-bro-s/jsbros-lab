@@ -50,7 +50,7 @@
 
 **View the lessons online:**
 
-```
+```md
 https://js-bro-s.github.io/jsbros-lab/
 ```
 
