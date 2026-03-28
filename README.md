@@ -1,97 +1,76 @@
-# JS Bros Lab — Lesson 1  
+# JS Bros Lab
 
-<img src="static/img/jsbros-lab-banner-alt.png" alt="JS Bros Banner" height="500">
+![JS Bros Lab Banner](static/img/js-bros-lab-banner-alt.png)
 
+> A coding curriculum built for kids 9–13, taught by Dad. We learn Git, Markdown, Roblox Studio, and Lua — one lesson at a time.
 
-## Getting Started: What We’re Building & How We Work
-
-**Duration:** 60 minutes  
-**Audience:** Beginners (kids)  
-**Role:** Dad as teacher, kids as students  
-**Tone:** Calm, curious, hands-on
+**Live site:** [js-bro-s.github.io/jsbros-lab](https://js-bro-s.github.io/jsbros-lab/)
 
 ---
 
-## 0–5 min — Arrival & Context (Warm-up)
+## What's in Here
 
-**Goal:** Set expectations and create a safe learning environment.
-
-- Everyone sits at their desks
-- Screens on, hands off keyboard
-- Explain:
-  - This is *lab time*
-  - We build slowly and intentionally
-  - Mistakes are expected and allowed
-
-**Key phrase:**  
-> “Nothing breaks forever in a lab.”
+| Folder                     | What It Contains                              |
+| -------------------------- | --------------------------------------------- |
+| `docs/lessons/`            | 11 step-by-step lessons, 45–90 min each       |
+| `docs/exercises/`          | 11 exercises, one per lesson, with checklists |
+| `docs/github-guide.md`     | The 4 git commands — bookmark this            |
+| `docs/progress-tracker.md` | Lesson and exercise completion per student    |
 
 ---
 
-## 5–10 min — What Is JS Bros? (Big Picture)
+## Curriculum Overview
 
-**Goal:** Give meaning before tools.
-
-- Explain the JS Bros universe:
-  - **Games**
-  - **Lab**
-  - **Prints**
-  - **Workstation**
-- Show the GitHub organization page
-- Show the list of repositories
-
-**Kid-friendly framing:**  
-> “This is our shared digital notebook.”
-
----
-
-## 10–20 min — What Is Version Control? (Concept Only)
-
-**Goal:** Understand the idea without touching the keyboard yet.
-
-**Analogies:**
-
-- Game save files
-- LEGO instruction books
-- Undo button for projects
-
-**Teach only these three ideas:**
-
-1. A **repository (repo)** = project folder
-2. A **commit** = save point
-3. **GitHub** = cloud backup + teamwork
-
-❌ No commands yet  
-✅ Understanding first
+| #   | Lesson                | Key Skills                                    |
+| --- | --------------------- | --------------------------------------------- |
+| 01  | What We're Building   | Repos, commits, GitHub                        |
+| 02  | Writing with Markdown | Headings, lists, code blocks, READMEs         |
+| 03  | Git in Action         | `status`, `add`, `commit`, `push`, branches   |
+| 04  | Roblox Studio Basics  | Explorer, Properties, Parts, playtesting      |
+| 05  | Lua Basics            | Variables, `if/else`, touch events            |
+| 06  | Loops                 | `for`, `while`, `task.wait`, spawning parts   |
+| 07  | Functions             | Parameters, return values, refactoring        |
+| 08  | Tables & Lists        | Lists, `ipairs`, key-value, `pairs`           |
+| 09  | Build Your First Game | Coin collector — 4 scripts, full game loop    |
+| 10  | GUI & Score Display   | `ScreenGui`, `TextLabel`, `LocalScript`       |
+| 11  | Sounds & Effects      | `TweenService`, particles, sound, game polish |
 
 ---
 
-## 20–30 min — Hands-On: Explore a Repository
+## Students
 
-**Goal:** Comfort navigating, not editing.
-
-- Open the `jsbros-lab` repository
-- Read the `README.md`
-- Click through folders and files
-- Show file history
-
-**Discussion prompts:**
-
-- “What do you think this file does?”
-- “What would happen if we changed this?”
+| Name     | GitHub                                               |
+| -------- | ---------------------------------------------------- |
+| Jonathan | [@jonniedollasjr](https://github.com/jonniedollasjr) |
+| Jaxon    | [@jaxondollas](https://github.com/jaxondollas)       |
 
 ---
 
-## 30–40 min — First Real Action: Local Setup
+## Getting Started
 
-**Goal:** Create the first small win.
+**View the lessons online:**
 
-Choose **one**:
+```
+https://js-bro-s.github.io/jsbros-lab/
+```
 
-- Clone the repository locally  
-- OR create a new folder with a README
-
-Example command:
+**Clone and run locally:**
 
 ```bash
-git clone https://github.com/js-bros/jsbros-lab.git
+git clone https://github.com/js-bro-s/jsbros-lab.git
+cd jsbros-lab
+npm install
+npm start
+```
+
+Open [localhost:3000](http://localhost:3000) to preview the site.
+
+---
+
+## Part of the JS Bros Universe
+
+| Repo                                                       | What It Is                           |
+| ---------------------------------------------------------- | ------------------------------------ |
+| [jsbros-lab](https://github.com/js-bro-s/jsbros-lab)       | This repo — curriculum and docs      |
+| [jsbros-games](https://github.com/js-bro-s/jsbros-games)   | Roblox games we build during lessons |
+| [jsbros-prints](https://github.com/js-bro-s/jsbros-prints) | 3D printed fidgets and items         |

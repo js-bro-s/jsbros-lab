@@ -142,7 +142,7 @@ Example:
 ![Alt text](path/to/image.png)
 ```
 
-![Image](../../static/img/js-bros-icon.png)
+![JS Brows Icon](../../static/img/js-bros-icon.png)
 
 ---
 
