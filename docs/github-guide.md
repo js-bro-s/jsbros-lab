@@ -1,5 +1,8 @@
 ---
 displayed_sidebar: null
+
+description: Git is how we save our work, share it, and never lose anything. This guide is your cheat sheet.
+hide_table_of_contents: true
 ---
 
 # GitHub Guide for JS Bros
@@ -43,7 +46,7 @@ cd jsbros-lab
 
 A commit message answers: **"What did I do?"**
 
-| ❌ Bad    | ✅ Good                               |
+| ❌ Bad     | ✅ Good                                |
 | --------- | ------------------------------------- |
 | `update`  | `add color change to lava part`       |
 | `stuff`   | `fix score not resetting on respawn`  |
