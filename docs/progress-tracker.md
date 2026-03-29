@@ -12,8 +12,8 @@ Update this file after each lesson. Check off what's been completed.
 
 | Name     | Started | GitHub username |
 | -------- | ------- | --------------- |
-| Jonathan | ☐       | jonniedollasjr  |
-| Jaxon    | ☐       | jaxondollas     |
+| Jonathan | ✅       | jonniedollasjr  |
+| Jaxon    | ✅       | jaxondollas     |
 
 ---
 
@@ -21,10 +21,10 @@ Update this file after each lesson. Check off what's been completed.
 
 ### Lesson 01 — What We're Building & How We Work
 
-| Student  | Completed | Notes |
-| -------- | --------- | ----- |
-| Jonathan | ☐         |       |
-| Jaxon    | ☐         |       |
+| Student  | Completed | Notes                                      |
+| -------- | --------- | ------------------------------------------ |
+| Jonathan | ✅         | Need to setup OSX CMD on windows keyboard  |
+| Jaxon    | ✅         | Need to set `git bash` as default terminal |
 
 > **Skills unlocked:** Understands what a repo is, what a commit does, and why we use GitHub. Cloned a repo locally.
 
@@ -142,19 +142,19 @@ Update this file after each lesson. Check off what's been completed.
 
 ## 🏁 Exercise Completion
 
-| Exercise                        | Jonathan | Jaxon | Bonus |
-| ------------------------------- | -------- | ----- | ----- |
-| Ex 01 · About Me                | ☐        | ☐     | —     |
-| Ex 02 · Markdown Challenge      | ☐        | ☐     | ☐     |
-| Ex 03 · Git Practice            | ☐        | ☐     | ☐     |
-| Ex 04 · Studio Build            | ☐        | ☐     | ☐     |
-| Ex 05 · Lua Basics              | ☐        | ☐     | ☐     |
-| Ex 06 · Loops                   | ☐        | ☐     | ☐     |
-| Ex 07 · Functions               | ☐        | ☐     | ☐     |
-| Ex 08 · Tables & Lists          | ☐        | ☐     | ☐     |
-| Ex 09 · Game Extension          | ☐        | ☐     | ☐     |
-| Ex 10 · GUI Challenge           | ☐        | ☐     | ☐     |
-| Ex 11 · Sounds & Effects        | ☐        | ☐     | ☐     |
+| Exercise                   | Jonathan | Jaxon | Bonus |
+| -------------------------- | -------- | ----- | ----- |
+| Ex 01 · About Me           | ✅        | ✅     | —     |
+| Ex 02 · Markdown Challenge | ☐        | ☐     | ☐     |
+| Ex 03 · Git Practice       | ☐        | ☐     | ☐     |
+| Ex 04 · Studio Build       | ☐        | ☐     | ☐     |
+| Ex 05 · Lua Basics         | ☐        | ☐     | ☐     |
+| Ex 06 · Loops              | ☐        | ☐     | ☐     |
+| Ex 07 · Functions          | ☐        | ☐     | ☐     |
+| Ex 08 · Tables & Lists     | ☐        | ☐     | ☐     |
+| Ex 09 · Game Extension     | ☐        | ☐     | ☐     |
+| Ex 10 · GUI Challenge      | ☐        | ☐     | ☐     |
+| Ex 11 · Sounds & Effects   | ☐        | ☐     | ☐     |
 
 ---
 
@@ -162,16 +162,16 @@ Update this file after each lesson. Check off what's been completed.
 
 Award these after a student demonstrates the skill unprompted.
 
-| Badge              | What It Means                                           | Jonathan | Jaxon | Date |
-| ------------------ | ------------------------------------------------------- | -------- | ----- | ---- |
-| 🖥️ First Commit    | Pushed code to GitHub on their own                      |          |       |      |
-| 📝 Documenter      | Wrote a clear commit message without being told         |          |       |      |
-| 🧠 Debugger        | Found and fixed a script error independently            |          |       |      |
-| 🏗️ Builder         | Built a playable area in Studio from scratch            |          |       |      |
-| 🔁 Self-Starter    | Opened their repo and started working without prompting |          |       |      |
-| 🤝 Collaborator    | Helped the other student solve a problem                |          |       |      |
-| 🎮 Game Maker      | Shipped a playable game to GitHub                       |          |       |      |
-| 🎨 Designer        | Added sounds, effects, or visual polish unprompted      |          |       |      |
+| Badge          | What It Means                                           | Jonathan | Jaxon | Date |
+| -------------- | ------------------------------------------------------- | -------- | ----- | ---- |
+| 🖥️ First Commit | Pushed code to GitHub on their own                      |          |       |      |
+| 📝 Documenter   | Wrote a clear commit message without being told         |          |       |      |
+| 🧠 Debugger     | Found and fixed a script error independently            |          |       |      |
+| 🏗️ Builder      | Built a playable area in Studio from scratch            |          |       |      |
+| 🔁 Self-Starter | Opened their repo and started working without prompting |          |       |      |
+| 🤝 Collaborator | Helped the other student solve a problem                |          |       |      |
+| 🎮 Game Maker   | Shipped a playable game to GitHub                       |          |       |      |
+| 🎨 Designer     | Added sounds, effects, or visual polish unprompted      |          |       |      |
 
 ---
 
