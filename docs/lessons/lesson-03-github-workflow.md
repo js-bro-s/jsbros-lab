@@ -108,3 +108,9 @@ Review each person's GitHub — everyone should see at least 2 commits.
 
 **Key phrase for next time:**
 > "Next lesson we open Roblox Studio."
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 03 cheatsheet](/cheatsheets/lesson-03-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

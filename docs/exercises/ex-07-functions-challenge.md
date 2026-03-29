@@ -104,3 +104,10 @@ end
 ---
 
 **You're done when:** All 3 parts work and the refactored script is cleaner than the original ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 07 reference sheet (light/print)](/cheatsheets/ex-07-sheet-light.pdf) — tick off each item as you complete it.
+:::

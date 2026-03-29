@@ -93,3 +93,9 @@ git push
 
 **Next lesson preview:**
 > "Next time: we write our first line of Lua code inside that world."
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 04 cheatsheet](/cheatsheets/lesson-04-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

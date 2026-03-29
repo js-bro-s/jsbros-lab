@@ -98,3 +98,10 @@ Example command:
 
 ```bash
 git clone https://github.com/js-bros/jsbros-lab.git
+```
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 01 cheatsheet](/cheatsheets/lesson-01-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

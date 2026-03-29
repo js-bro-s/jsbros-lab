@@ -180,3 +180,10 @@ git push
 - "Name one place in your game where a function would be useful."
 
 **Next lesson:** Tables — storing lists of things.
+
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 07 cheatsheet](/cheatsheets/lesson-07-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

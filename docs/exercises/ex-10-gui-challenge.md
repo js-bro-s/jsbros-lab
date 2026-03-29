@@ -83,3 +83,10 @@ When `_G.winner` is set (after the timer ends), show a full-screen overlay with:
 ---
 
 **You're done when:** All 3 parts are working in a live playtest with at least 2 players (or solo testing) ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 10 reference sheet (light/print)](/cheatsheets/ex-10-sheet-light.pdf) — tick off each item as you complete it.
+:::

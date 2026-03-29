@@ -169,3 +169,10 @@ git push
 - "When would you use `ipairs` vs `pairs`?"
 
 **Next lesson:** We put everything together and build a real mini game.
+
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 08 cheatsheet](/cheatsheets/lesson-08-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

@@ -80,3 +80,10 @@ Make the part change to a **random** color on each touch instead of always blue:
 ---
 
 **You're done when:** All 3 parts work and the bonus is attempted ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 05 reference sheet (light/print)](/cheatsheets/ex-05-sheet-light.pdf) — tick off each item as you complete it.
+:::

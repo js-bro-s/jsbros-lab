@@ -165,3 +165,10 @@ git push
 - "What's `WaitForChild` for?"
 
 **Next lesson:** Sound and visual effects — making the game feel alive.
+
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 10 cheatsheet](/cheatsheets/lesson-10-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

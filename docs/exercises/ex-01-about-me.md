@@ -57,3 +57,10 @@ git push
 Then open GitHub and make sure your file shows up in the repo.
 
 **You're done when:** Your `about-me.md` is visible on GitHub ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 01 reference sheet (light/print)](/cheatsheets/ex-01-sheet-light.pdf) — tick off each item as you complete it.
+:::

@@ -71,3 +71,10 @@ git push
 ```
 
 **You're done when:** The file looks clean and readable on GitHub with all the formatting applied ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 02 reference sheet (light/print)](/cheatsheets/ex-02-sheet-light.pdf) — tick off each item as you complete it.
+:::

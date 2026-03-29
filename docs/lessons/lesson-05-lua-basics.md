@@ -161,3 +161,9 @@ git push
 - "What is an event?"
 
 **Next lesson:** Loops, functions, and building a simple scoring system.
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 05 cheatsheet](/cheatsheets/lesson-05-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

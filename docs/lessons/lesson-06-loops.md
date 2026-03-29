@@ -179,3 +179,10 @@ git push
 - "When would you use each one?"
 
 **Next lesson:** Writing your own functions so you can reuse code anywhere.
+
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 06 cheatsheet](/cheatsheets/lesson-06-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

@@ -101,3 +101,10 @@ git add .
 git commit -m "final polish: sounds, effects, and game feel"
 git push
 ```
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 11 reference sheet (light/print)](/cheatsheets/ex-11-sheet-light.pdf) — tick off each item as you complete it.
+:::

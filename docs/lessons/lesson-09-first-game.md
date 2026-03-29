@@ -238,3 +238,10 @@ git push
 - Loops, functions, tables, events — all in one project
 
 **Next lesson:** Show the score on screen with a GUI.
+
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 09 cheatsheet](/cheatsheets/lesson-09-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

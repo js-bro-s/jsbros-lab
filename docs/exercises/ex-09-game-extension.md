@@ -90,3 +90,10 @@ When a player reaches 10, 25, or 50 points, print a special message:
 ---
 
 **You're done when:** All 3 challenges are working in a live playtest ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 09 reference sheet (light/print)](/cheatsheets/ex-09-sheet-light.pdf) — tick off each item as you complete it.
+:::

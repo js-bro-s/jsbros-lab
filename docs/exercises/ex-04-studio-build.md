@@ -58,3 +58,10 @@ git push
 ```
 
 **You're done when:** The `.rbxl` file is on GitHub and you've playtested the full course ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 04 reference sheet (light/print)](/cheatsheets/ex-04-sheet-light.pdf) — tick off each item as you complete it.
+:::

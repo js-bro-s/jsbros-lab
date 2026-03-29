@@ -217,3 +217,10 @@ Open GitHub and show them the rendered README on the repo page.
 - "Where else have you seen Markdown used?" (Discord, Reddit, Notion, GitHub)
 
 **Next lesson:** Git in action — saving and sharing your work.
+
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 02 cheatsheet](/cheatsheets/lesson-02-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::

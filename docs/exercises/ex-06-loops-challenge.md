@@ -79,3 +79,10 @@ After spawning the ring of parts in Part 2, write another loop that removes them
 ---
 
 **You're done when:** All 3 parts run without errors and the bonus is attempted ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 06 reference sheet (light/print)](/cheatsheets/ex-06-sheet-light.pdf) — tick off each item as you complete it.
+:::

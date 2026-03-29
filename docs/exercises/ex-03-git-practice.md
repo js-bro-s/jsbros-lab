@@ -92,3 +92,10 @@ Switch back to `main` and look at the difference between `main` and your branch 
 ---
 
 **You're done when:** All 5 checkpoints are ticked ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 03 reference sheet (light/print)](/cheatsheets/ex-03-sheet-light.pdf) — tick off each item as you complete it.
+:::

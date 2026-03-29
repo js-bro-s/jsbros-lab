@@ -86,3 +86,10 @@ Loop through it with `pairs` and print each player and score.
 ---
 
 **You're done when:** All 3 parts run correctly and the leaderboard bonus is attempted ✅
+
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 08 reference sheet (light/print)](/cheatsheets/ex-08-sheet-light.pdf) — tick off each item as you complete it.
+:::

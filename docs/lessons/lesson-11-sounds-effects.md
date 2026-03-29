@@ -211,3 +211,10 @@ Now that they have a working game, natural next projects are:
 - **DataStores** — save scores between sessions
 - **ModuleScripts** — organize code into reusable modules
 - **Publishing** — put the game live on Roblox for others to play
+
+
+---
+
+:::tip Print Reference
+[📄 Download the Lesson 11 cheatsheet](/cheatsheets/lesson-11-cheatsheet.pdf) — print it and keep it on your desk while you work.
+:::
