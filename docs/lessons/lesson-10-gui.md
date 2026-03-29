@@ -14,7 +14,8 @@ sidebar_position: 9
 
 ## 0–5 min — What Is a GUI?
 
-> "GUI stands for Graphical User Interface. It's everything you see on screen that isn't the 3D world — score, health bar, buttons, menus."
+> "GUI stands for Graphical User Interface. It's everything you see on screen that isn't the 3D
+> world — score, health bar, buttons, menus."
 
 Show examples in real Roblox games: health bar, score counter, inventory.
 
@@ -54,6 +55,7 @@ Build the GUI by hand in Studio first so they understand the structure.
 GUI updates happen on the **client** (each player's screen). We need a `LocalScript`.
 
 **In the Explorer:**
+
 - `StarterPlayerScripts` → Insert → `LocalScript` → name it `ScoreDisplay`
 
 ```lua
@@ -85,6 +87,7 @@ end
 Add a second label showing time remaining.
 
 **In Studio:**
+
 1. Inside `ScoreFrame` → Insert another `TextLabel` → name it `TimerLabel`
 2. Position it below `ScoreLabel` or in a new frame
 
@@ -125,6 +128,7 @@ _G.timeLeft = timeLeft
 When the game ends, show the winner on screen.
 
 **Add a new Frame to `GameGui`:**
+
 - Name: `WinnerFrame`
 - Centered on screen, hidden by default (`Visible: false`)
 - Inside it: a `TextLabel` named `WinnerLabel`
@@ -161,14 +165,13 @@ git push
 ```
 
 **Ask:**
+
 - "Where does a LocalScript run? Why does it matter?"
 - "What's `WaitForChild` for?"
 
 **Next lesson:** Sound and visual effects — making the game feel alive.
 
-
 ---
 
-:::tip Print Reference
-[📄 Download the Lesson 10 cheatsheet](/cheatsheets/lesson-10-cheatsheet.pdf) — print it and keep it on your desk while you work.
-:::
+:::tip Print Reference [📄 Download the Lesson 10 cheatsheet](/cheatsheets/lesson-10-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

@@ -40,13 +40,13 @@ Then:
 
 Create a key-value table called `player` with these fields:
 
-```
+```lua
 name, level, score, isAlive, weapon
 ```
 
 Write a function called `printPlayerCard` that prints all 5 fields in a clean format:
 
-```
+```lua
 --- Player Card ---
 Name:    Jaxon
 Level:   3
@@ -78,7 +78,8 @@ local scores = {
 
 Loop through it with `pairs` and print each player and score.
 
-**Bonus:** Find and print the player with the highest score without sorting the table — use a variable to track the current highest as you loop.
+**Bonus:** Find and print the player with the highest score without sorting the table — use a
+variable to track the current highest as you loop.
 
 - [ ] `pairs` loop prints all players and scores
 - [ ] Bonus: highest score player identified and printed
@@ -87,9 +88,8 @@ Loop through it with `pairs` and print each player and score.
 
 **You're done when:** All 3 parts run correctly and the leaderboard bonus is attempted ✅
 
-
 ---
 
 :::tip Print this Exercise
-[📄 Download the Exercise 08 reference sheet (light/print)](/cheatsheets/ex-08-sheet-light.pdf) — tick off each item as you complete it.
-:::
+[📄 Download the Exercise 08 reference sheet (light/print)](/cheatsheets/ex-08-sheet-light.pdf) —
+tick off each item as you complete it. :::

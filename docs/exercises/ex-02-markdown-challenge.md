@@ -12,33 +12,26 @@ sidebar_position: 2
 
 ## Your Task
 
-Below is a plain text document. Your job is to create `my-game-plan.md` and rewrite it using proper Markdown formatting.
+Below is a plain text document. Your job is to create `my-game-plan.md` and rewrite it using proper
+Markdown formatting.
 
 **Plain text (do not copy this as-is):**
 
-```
+```md
 My Game Plan
 
-Project Name
-Coin Collector
+Project Name Coin Collector
 
-What It Does
-Players run around a map collecting coins. The player with the most coins after 60 seconds wins.
+What It Does Players run around a map collecting coins. The player with the most coins after 60
+seconds wins.
 
-Features
-A coin spawner that places 10 coins around the map
-A score counter for each player
-A 60 second timer
-A winner announcement at the end
+Features A coin spawner that places 10 coins around the map A score counter for each player A 60
+second timer A winner announcement at the end
 
-How to Play
-Open the game in Roblox Studio and press Play
-Walk into yellow coins to collect them
-Watch your score go up
-See who wins when the timer runs out
+How to Play Open the game in Roblox Studio and press Play Walk into yellow coins to collect them
+Watch your score go up See who wins when the timer runs out
 
-Note
-This is a work in progress. Some features are not done yet.
+Note This is a work in progress. Some features are not done yet.
 ```
 
 ---
@@ -72,9 +65,8 @@ git push
 
 **You're done when:** The file looks clean and readable on GitHub with all the formatting applied ✅
 
-
 ---
 
 :::tip Print this Exercise
-[📄 Download the Exercise 02 reference sheet (light/print)](/cheatsheets/ex-02-sheet-light.pdf) — tick off each item as you complete it.
-:::
+[📄 Download the Exercise 02 reference sheet (light/print)](/cheatsheets/ex-02-sheet-light.pdf) —
+tick off each item as you complete it. :::

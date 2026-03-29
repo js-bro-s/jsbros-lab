@@ -16,14 +16,15 @@ sidebar_position: 10
 
 Play two versions of the same game — one with no sound or effects, one with both.
 
-> "The gameplay is identical. Which one felt better to play?"
-> "Sound and visual feedback tell the player that something happened. Without it, the game feels broken even if it works perfectly."
+> "The gameplay is identical. Which one felt better to play?" "Sound and visual feedback tell the
+> player that something happened. Without it, the game feels broken even if it works perfectly."
 
 ---
 
 ## 5–20 min — Adding Sounds
 
 **Where sounds live in Roblox:**
+
 - Inside a `Part` → plays at that location in the world (3D positional)
 - Inside `SoundService` or `ReplicatedStorage` → plays globally
 
@@ -178,13 +179,15 @@ music:Play()
 print("Music started")
 ```
 
-**Let kids pick their own track** — search the Toolbox for free music and grab the SoundId from the Properties panel.
+**Let kids pick their own track** — search the Toolbox for free music and grab the SoundId from the
+Properties panel.
 
 ---
 
 ## 57–60 min — Final Playtest & Save
 
 Play the full game together. It should now have:
+
 - ✅ Coins spawning randomly
 - ✅ Score on screen
 - ✅ Timer countdown
@@ -212,9 +215,7 @@ Now that they have a working game, natural next projects are:
 - **ModuleScripts** — organize code into reusable modules
 - **Publishing** — put the game live on Roblox for others to play
 
-
 ---
 
-:::tip Print Reference
-[📄 Download the Lesson 11 cheatsheet](/cheatsheets/lesson-11-cheatsheet.pdf) — print it and keep it on your desk while you work.
-:::
+:::tip Print Reference [📄 Download the Lesson 11 cheatsheet](/cheatsheets/lesson-11-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

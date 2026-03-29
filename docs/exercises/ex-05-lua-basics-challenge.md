@@ -6,7 +6,8 @@ sidebar_position: 5
 
 **Lesson:** 05 — Lua Basics | **Difficulty:** Beginner
 
-**Goal:** Write a script from scratch using `print`, variables, and `if/else` — no looking at the lesson.
+**Goal:** Write a script from scratch using `print`, variables, and `if/else` — no looking at the
+lesson.
 
 ---
 
@@ -27,7 +28,7 @@ Create 4 variables:
 
 Then print a single sentence that uses all four, like:
 
-```
+```text
 Jaxon is 10 years old. Favourite game: Blox Fruits. Played today: true
 ```
 
@@ -81,9 +82,8 @@ Make the part change to a **random** color on each touch instead of always blue:
 
 **You're done when:** All 3 parts work and the bonus is attempted ✅
 
-
 ---
 
 :::tip Print this Exercise
-[📄 Download the Exercise 05 reference sheet (light/print)](/cheatsheets/ex-05-sheet-light.pdf) — tick off each item as you complete it.
-:::
+[📄 Download the Exercise 05 reference sheet (light/print)](/cheatsheets/ex-05-sheet-light.pdf) —
+tick off each item as you complete it. :::

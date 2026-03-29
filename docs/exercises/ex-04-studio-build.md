@@ -12,18 +12,19 @@ sidebar_position: 4
 
 ## Your Task
 
-Build a **mini obstacle course** with at least 5 sections. Each section must use a different part property.
+Build a **mini obstacle course** with at least 5 sections. Each section must use a different part
+property.
 
 ---
 
 ## Requirements
 
-| Section | What to Do |
-|---------|------------|
-| **Start platform** | A large flat Part, `BrickColor: Bright green`, Anchored |
-| **Thin walkway** | A long narrow Part (`30, 1, 3`), any color, Anchored |
-| **Jump gap** | Two platforms with a gap between them — wide enough to make you think |
-| **Color wall** | A wall of 4+ Parts in different colors stacked or arranged |
+| Section             | What to Do                                                                                    |
+| ------------------- | --------------------------------------------------------------------------------------------- |
+| **Start platform**  | A large flat Part, `BrickColor: Bright green`, Anchored                                       |
+| **Thin walkway**    | A long narrow Part (`30, 1, 3`), any color, Anchored                                          |
+| **Jump gap**        | Two platforms with a gap between them — wide enough to make you think                         |
+| **Color wall**      | A wall of 4+ Parts in different colors stacked or arranged                                    |
 | **Finish platform** | A Part with `Material: Neon`, labeled with a name using a `SurfaceGui` or just a bright color |
 
 ---
@@ -42,7 +43,8 @@ Build a **mini obstacle course** with at least 5 sections. Each section must use
 
 - [ ] Add a `SpawnLocation` at the start so you always spawn at the beginning
 - [ ] Use `Neon` material on the finish platform so it glows
-- [ ] Add a kill brick (set `BrickColor` to red, name it `KillBrick` — we'll add the script in a later lesson)
+- [ ] Add a kill brick (set `BrickColor` to red, name it `KillBrick` — we'll add the script in a
+      later lesson)
 
 ---
 
@@ -59,9 +61,8 @@ git push
 
 **You're done when:** The `.rbxl` file is on GitHub and you've playtested the full course ✅
 
-
 ---
 
 :::tip Print this Exercise
-[📄 Download the Exercise 04 reference sheet (light/print)](/cheatsheets/ex-04-sheet-light.pdf) — tick off each item as you complete it.
-:::
+[📄 Download the Exercise 04 reference sheet (light/print)](/cheatsheets/ex-04-sheet-light.pdf) —
+tick off each item as you complete it. :::

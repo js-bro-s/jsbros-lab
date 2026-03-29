@@ -6,7 +6,8 @@ sidebar_position: 6
 
 **Lesson:** 06 — Loops | **Difficulty:** Beginner
 
-**Goal:** Use `for` and `while` loops to spawn objects and create a countdown — without looking at the lesson.
+**Goal:** Use `for` and `while` loops to spawn objects and create a countdown — without looking at
+the lesson.
 
 ---
 
@@ -21,7 +22,8 @@ In Roblox Studio → `ServerScriptService` → new Script → name it `LoopsExer
 Write a `for` loop that prints every **even number** from 2 to 20.
 
 Expected output:
-```
+
+```text
 2
 4
 6
@@ -53,6 +55,7 @@ local z = math.sin(angle) * radius
 ```
 
 Requirements:
+
 - [ ] 8 parts spawned
 - [ ] All parts form a visible circle in the Workspace
 - [ ] Each part is a different `BrickColor` (use `BrickColor.Random()`)
@@ -62,7 +65,8 @@ Requirements:
 
 ## Part 3 — Countdown Timer
 
-Write a `while` loop that counts down from 10 to 0, printing each number with `task.wait(1)` between each.
+Write a `while` loop that counts down from 10 to 0, printing each number with `task.wait(1)` between
+each.
 
 When it reaches 0, print `"GO!"` and spawn a single glowing part at position `(0, 5, 0)`.
 
@@ -74,15 +78,15 @@ When it reaches 0, print `"GO!"` and spawn a single glowing part at position `(0
 
 ## Bonus
 
-After spawning the ring of parts in Part 2, write another loop that removes them one by one with a 0.2 second delay between each, making them disappear like a sequence.
+After spawning the ring of parts in Part 2, write another loop that removes them one by one with a
+0.2 second delay between each, making them disappear like a sequence.
 
 ---
 
 **You're done when:** All 3 parts run without errors and the bonus is attempted ✅
 
-
 ---
 
 :::tip Print this Exercise
-[📄 Download the Exercise 06 reference sheet (light/print)](/cheatsheets/ex-06-sheet-light.pdf) — tick off each item as you complete it.
-:::
+[📄 Download the Exercise 06 reference sheet (light/print)](/cheatsheets/ex-06-sheet-light.pdf) —
+tick off each item as you complete it. :::

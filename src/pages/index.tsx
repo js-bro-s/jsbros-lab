@@ -33,16 +33,14 @@ const cards: Card[] = [
   {
     title: "GitHub Guide",
     emoji: "🔧",
-    description:
-      "The four commands you need to save and share your work. Bookmark this page.",
+    description: "The four commands you need to save and share your work. Bookmark this page.",
     to: "/github-guide",
     label: "Open Guide",
   },
   {
     title: "Progress Tracker",
     emoji: "🏆",
-    description:
-      "Track which lessons and exercises each student has completed, plus skill badges.",
+    description: "Track which lessons and exercises each student has completed, plus skill badges.",
     to: "/progress-tracker",
     label: "View Progress",
   },
@@ -60,20 +58,12 @@ export default function Home(): ReactNode {
           <Heading as="h1" className={styles.heroTitle}>
             JS Bros Lab
           </Heading>
-          <p className={styles.heroSubtitle}>
-            Learn to build. Build to learn.
-          </p>
+          <p className={styles.heroSubtitle}>Learn to build. Build to learn.</p>
           <div className={styles.heroCta}>
-            <Link
-              className="button button--primary button--lg"
-              to="/lessons/lesson-01-intro"
-            >
+            <Link className="button button--primary button--lg" to="/lessons/lesson-01-intro">
               Start Lesson 1 →
             </Link>
-            <Link
-              className="button button--secondary button--lg"
-              to="/github-guide"
-            >
+            <Link className="button button--secondary button--lg" to="/github-guide">
               GitHub Guide
             </Link>
           </div>

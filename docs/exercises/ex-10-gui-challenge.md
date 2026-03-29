@@ -6,7 +6,8 @@ sidebar_position: 10
 
 **Lesson:** 10 — GUI & Score Display | **Difficulty:** Intermediate
 
-**Goal:** Build a complete HUD (heads-up display) for the Coin Collector game — from scratch, without referring to the lesson.
+**Goal:** Build a complete HUD (heads-up display) for the Coin Collector game — from scratch,
+without referring to the lesson.
 
 ---
 
@@ -14,7 +15,7 @@ sidebar_position: 10
 
 A HUD with 3 elements:
 
-```
+```text
 ┌─────────────────────────────────────┐
 │  🪙 Coins: 12      ⏱ Time: 38s      │
 │                                     │
@@ -76,17 +77,18 @@ local TweenService = game:GetService("TweenService")
 ## Bonus — Winner Screen
 
 When `_G.winner` is set (after the timer ends), show a full-screen overlay with:
+
 - The winner's name in large text
 - A semi-transparent dark background
 - A `"Play Again"` TextButton (the button doesn't need to do anything yet)
 
 ---
 
-**You're done when:** All 3 parts are working in a live playtest with at least 2 players (or solo testing) ✅
-
+**You're done when:** All 3 parts are working in a live playtest with at least 2 players (or solo
+testing) ✅
 
 ---
 
 :::tip Print this Exercise
-[📄 Download the Exercise 10 reference sheet (light/print)](/cheatsheets/ex-10-sheet-light.pdf) — tick off each item as you complete it.
-:::
+[📄 Download the Exercise 10 reference sheet (light/print)](/cheatsheets/ex-10-sheet-light.pdf) —
+tick off each item as you complete it. :::

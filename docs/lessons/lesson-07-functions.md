@@ -8,7 +8,8 @@ sidebar_position: 6
 
 - **Duration:** 60 minutes
 - **Prereq:** Lesson 5 complete
-- **Goal:** Kids write their own functions, understand parameters and return values, and clean up their scripts
+- **Goal:** Kids write their own functions, understand parameters and return values, and clean up
+  their scripts
 
 ---
 
@@ -50,11 +51,13 @@ greetPlayer()
 ```
 
 **Rules:**
+
 - `local function` → creates the function
 - `functionName()` → calls (runs) it
 - The `()` are always required — even when empty
 
-**Activity:** Each kid writes a function called `printMyInfo()` that prints their name, age, and favorite game.
+**Activity:** Each kid writes a function called `printMyInfo()` that prints their name, age, and
+favorite game.
 
 ---
 
@@ -74,7 +77,8 @@ greetPlayer("Zoe")
 ```
 
 **Output:**
-```
+
+```lua
 Welcome, Jaxon!
 Good luck out there.
 Welcome, Marcus!
@@ -136,6 +140,7 @@ print(getGrade(45))   -- Try again
 Give them their Lesson 4 touch script and ask them to refactor it using a function:
 
 **Before:**
+
 ```lua
 local part = script.Parent
 
@@ -148,6 +153,7 @@ end)
 ```
 
 **After (their goal):**
+
 ```lua
 local part = script.Parent
 local DEFAULT_COLOR = BrickColor.new("Medium stone grey")
@@ -176,14 +182,13 @@ git push
 ```
 
 **Ask:**
+
 - "What's the difference between a parameter and a return value?"
 - "Name one place in your game where a function would be useful."
 
 **Next lesson:** Tables — storing lists of things.
 
-
 ---
 
-:::tip Print Reference
-[📄 Download the Lesson 07 cheatsheet](/cheatsheets/lesson-07-cheatsheet.pdf) — print it and keep it on your desk while you work.
-:::
+:::tip Print Reference [📄 Download the Lesson 07 cheatsheet](/cheatsheets/lesson-07-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

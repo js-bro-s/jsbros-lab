@@ -12,8 +12,8 @@ Update this file after each lesson. Check off what's been completed.
 
 | Name     | Started | GitHub username |
 | -------- | ------- | --------------- |
-| Jonathan | ✅       | jonniedollasjr  |
-| Jaxon    | ✅       | jaxondollas     |
+| Jonathan | ✅      | jonniedollasjr  |
+| Jaxon    | ✅      | jaxondollas     |
 
 ---
 
@@ -23,10 +23,11 @@ Update this file after each lesson. Check off what's been completed.
 
 | Student  | Completed | Notes                                      |
 | -------- | --------- | ------------------------------------------ |
-| Jonathan | ✅         | Need to setup OSX CMD on windows keyboard  |
-| Jaxon    | ✅         | Need to set `git bash` as default terminal |
+| Jonathan | ✅        | Need to setup OSX CMD on windows keyboard  |
+| Jaxon    | ✅        | Need to set `git bash` as default terminal |
 
-> **Skills unlocked:** Understands what a repo is, what a commit does, and why we use GitHub. Cloned a repo locally.
+> **Skills unlocked:** Understands what a repo is, what a commit does, and why we use GitHub. Cloned
+> a repo locally.
 
 ---
 
@@ -37,7 +38,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** Headings, lists, bold/italic, code blocks, links, images. Wrote a proper README.
+> **Skills unlocked:** Headings, lists, bold/italic, code blocks, links, images. Wrote a proper
+> README.
 
 ---
 
@@ -48,7 +50,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** Runs the 4 commands independently. Created `about-me.md`. Made first push. Understands branches.
+> **Skills unlocked:** Runs the 4 commands independently. Created `about-me.md`. Made first push.
+> Understands branches.
 
 ---
 
@@ -59,7 +62,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** Navigates Studio panels. Places and edits Parts. Anchors objects. Runs a playtest. Saves `.rbxl` to GitHub.
+> **Skills unlocked:** Navigates Studio panels. Places and edits Parts. Anchors objects. Runs a
+> playtest. Saves `.rbxl` to GitHub.
 
 ---
 
@@ -70,7 +74,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** `print`, `local` variables, strings, numbers, booleans, `if/elseif/else`, `Touched` event, `script.Parent`.
+> **Skills unlocked:** `print`, `local` variables, strings, numbers, booleans, `if/elseif/else`,
+> `Touched` event, `script.Parent`.
 
 ---
 
@@ -81,7 +86,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** `for` loop with step, `while` loop, `task.wait()`, spawning parts with code using `Instance.new()`.
+> **Skills unlocked:** `for` loop with step, `while` loop, `task.wait()`, spawning parts with code
+> using `Instance.new()`.
 
 ---
 
@@ -92,7 +98,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** Writing named functions, parameters, return values, default parameters, refactoring repetitive code.
+> **Skills unlocked:** Writing named functions, parameters, return values, default parameters,
+> refactoring repetitive code.
 
 ---
 
@@ -103,7 +110,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** List tables, `#table`, `table.insert`, `table.remove`, `ipairs`, key-value tables, `pairs`.
+> **Skills unlocked:** List tables, `#table`, `table.insert`, `table.remove`, `ipairs`, key-value
+> tables, `pairs`.
 
 ---
 
@@ -114,7 +122,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** Multi-script architecture, `math.random`, `task.delay`, `GetPlayerFromCharacter`, `_G` for shared state, game timers.
+> **Skills unlocked:** Multi-script architecture, `math.random`, `task.delay`,
+> `GetPlayerFromCharacter`, `_G` for shared state, game timers.
 
 ---
 
@@ -125,7 +134,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** `ScreenGui`, `Frame`, `TextLabel`, `LocalScript`, `WaitForChild`, updating UI in a loop.
+> **Skills unlocked:** `ScreenGui`, `Frame`, `TextLabel`, `LocalScript`, `WaitForChild`, updating UI
+> in a loop.
 
 ---
 
@@ -136,7 +146,8 @@ Update this file after each lesson. Check off what's been completed.
 | Jonathan | ☐         |       |
 | Jaxon    | ☐         |       |
 
-> **Skills unlocked:** `Sound`, `TweenService`, `TweenInfo`, `ParticleEmitter`, `Emit()`, `SoundService`, background music, game polish.
+> **Skills unlocked:** `Sound`, `TweenService`, `TweenInfo`, `ParticleEmitter`, `Emit()`,
+> `SoundService`, background music, game polish.
 
 ---
 
@@ -144,7 +155,7 @@ Update this file after each lesson. Check off what's been completed.
 
 | Exercise                   | Jonathan | Jaxon | Bonus |
 | -------------------------- | -------- | ----- | ----- |
-| Ex 01 · About Me           | ✅        | ✅     | —     |
+| Ex 01 · About Me           | ✅       | ✅    | —     |
 | Ex 02 · Markdown Challenge | ☐        | ☐     | ☐     |
 | Ex 03 · Git Practice       | ☐        | ☐     | ☐     |
 | Ex 04 · Studio Build       | ☐        | ☐     | ☐     |
@@ -162,8 +173,8 @@ Update this file after each lesson. Check off what's been completed.
 
 Award these after a student demonstrates the skill unprompted.
 
-| Badge          | What It Means                                           | Jonathan | Jaxon | Date |
-| -------------- | ------------------------------------------------------- | -------- | ----- | ---- |
+| Badge           | What It Means                                           | Jonathan | Jaxon | Date |
+| --------------- | ------------------------------------------------------- | -------- | ----- | ---- |
 | 🖥️ First Commit | Pushed code to GitHub on their own                      |          |       |      |
 | 📝 Documenter   | Wrote a clear commit message without being told         |          |       |      |
 | 🧠 Debugger     | Found and fixed a script error independently            |          |       |      |

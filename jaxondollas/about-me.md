@@ -1,4 +1,4 @@
-# Jaxon 
+# Jaxon
 
 I'm 9 Years Old And I Like To Play Roblox.
 
@@ -12,6 +12,6 @@ I'm 9 Years Old And I Like To Play Roblox.
 
 I Want To Build A DDAY War Roblox Game.
 
-## One Thing I'm Excited About 
+## One Thing I'm Excited About
 
 I'm Excited About Scripting.

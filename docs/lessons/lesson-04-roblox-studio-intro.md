@@ -59,11 +59,13 @@ Each kid starts a **Baseplate** template and does exactly this:
 - Notice: what's solid, what they can walk through, what feels wrong
 
 **Discussion after:**
+
 - "What did you notice when you played it?"
 - "What would you change?"
 - "What does 'Anchored' mean in Properties?" (Answer: the part won't fall)
 
 **Key concept:**
+
 > "Anchored = frozen in place. Un-anchored = physics applies."
 
 ---
@@ -88,14 +90,15 @@ git push
 ## 55–60 min — Wrap Up
 
 **Ask each kid:**
+
 - "What did you build?"
 - "Name one thing you want to add next time"
 
 **Next lesson preview:**
+
 > "Next time: we write our first line of Lua code inside that world."
 
 ---
 
-:::tip Print Reference
-[📄 Download the Lesson 04 cheatsheet](/cheatsheets/lesson-04-cheatsheet.pdf) — print it and keep it on your desk while you work.
-:::
+:::tip Print Reference [📄 Download the Lesson 04 cheatsheet](/cheatsheets/lesson-04-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

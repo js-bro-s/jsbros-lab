@@ -15,6 +15,7 @@ sidebar_position: 8
 ## What We're Building
 
 A **coin collector game**:
+
 - Coins spawn randomly around the map
 - Player walks into a coin to collect it
 - Score increases each time
@@ -108,7 +109,8 @@ _G.getScore = getScore
 _G.addScore = addScore
 ```
 
-> **Note for Dad:** `_G` is a global table — it's the simplest way to share functions between scripts for now. We'll cover ModuleScripts in a later lesson.
+> **Note for Dad:** `_G` is a global table — it's the simplest way to share functions between
+> scripts for now. We'll cover ModuleScripts in a later lesson.
 
 ---
 
@@ -216,6 +218,7 @@ end
 ## Playtest & Polish (10 min)
 
 Play together as a family. Ask each kid:
+
 - "What would you change?"
 - "What should happen when a coin is collected?" (sound? flash?)
 - "What if coins were worth different points?"
@@ -233,15 +236,14 @@ git push
 ```
 
 **What they built:**
+
 - A working multiplayer game
 - 4 separate scripts that work together
 - Loops, functions, tables, events — all in one project
 
 **Next lesson:** Show the score on screen with a GUI.
 
-
 ---
 
-:::tip Print Reference
-[📄 Download the Lesson 09 cheatsheet](/cheatsheets/lesson-09-cheatsheet.pdf) — print it and keep it on your desk while you work.
-:::
+:::tip Print Reference [📄 Download the Lesson 09 cheatsheet](/cheatsheets/lesson-09-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

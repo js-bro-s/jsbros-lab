@@ -16,9 +16,11 @@ sidebar_position: 2
 
 Open any GitHub repo and point to the README.
 
-> "Every project has a README. It's the first thing anyone sees. It answers: what is this, how does it work, and how do I use it?"
+> "Every project has a README. It's the first thing anyone sees. It answers: what is this, how does
+> it work, and how do I use it?"
 
-> "We write READMEs in something called Markdown. It's not code — it's a way of writing text that looks good everywhere."
+> "We write READMEs in something called Markdown. It's not code — it's a way of writing text that
+> looks good everywhere."
 
 ---
 
@@ -28,14 +30,11 @@ Show plain text vs rendered Markdown side by side.
 
 **Plain text:**
 
-```
-JS Bros Lab
-This is our coding lab. We learn git, roblox, and lua.
-Lessons
+```md
+JS Bros Lab This is our coding lab. We learn git, roblox, and lua. Lessons
+
 - lesson 1
-- lesson 2
-How to start
-clone the repo and open it
+- lesson 2 How to start clone the repo and open it
 ```
 
 **The same thing in Markdown (rendered):**
@@ -57,7 +56,8 @@ Clone the repo and open it.
 
 ---
 
-> "Same words. Totally different experience. Markdown is just symbols that mean 'make this a heading' or 'make this a list.'"
+> "Same words. Totally different experience. Markdown is just symbols that mean 'make this a
+> heading' or 'make this a list.'"
 
 ---
 
@@ -67,7 +67,9 @@ Clone the repo and open it.
 
 ```md
 # Big Heading
+
 ## Medium Heading
+
 ### Small Heading
 ```
 
@@ -78,8 +80,7 @@ More `#` = smaller heading. Think of it like an outline.
 ### **2. Bold and Italic**
 
 ```md
-**this is bold**
-*this is italic*
+**this is bold** _this is italic_
 ```
 
 ---
@@ -179,20 +180,22 @@ Each kid writes a `README.md` for their own mini project folder. It must include
 ```md
 # My Garden Game
 
-A Roblox game where you collect items and drop them in zones.
-Built for JS Bros Lab Lesson 3.
+A Roblox game where you collect items and drop them in zones. Built for JS Bros Lab Lesson 3.
 
 ## What I Built
+
 - A baseplate with colored parts
 - An item carry script
 - Drop zones that change color on contact
 
 ## How to Run It
+
 1. Open `MyGardenGame.rbxl` in Roblox Studio
 2. Hit Play
 3. Walk around and collect items
 
 ## Links
+
 [JS Bros Lab](https://js-bro-s.github.io/jsbros-lab/)
 ```
 
@@ -218,9 +221,7 @@ Open GitHub and show them the rendered README on the repo page.
 
 **Next lesson:** Git in action — saving and sharing your work.
 
-
 ---
 
-:::tip Print Reference
-[📄 Download the Lesson 02 cheatsheet](/cheatsheets/lesson-02-cheatsheet.pdf) — print it and keep it on your desk while you work.
-:::
+:::tip Print Reference [📄 Download the Lesson 02 cheatsheet](/cheatsheets/lesson-02-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

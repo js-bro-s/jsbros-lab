@@ -40,7 +40,8 @@ end
 ```
 
 **Output:**
-```
+
+```lua
 Count: 1
 Count: 2
 Count: 3
@@ -49,6 +50,7 @@ Count: 5
 ```
 
 **Break it down:**
+
 - `i` → the counter variable (starts at 1)
 - `1, 5` → count from 1 to 5
 - `do ... end` → the code to run each time
@@ -92,11 +94,12 @@ for i = 1, 10 do
 end
 ```
 
-3. Hit Play
+1. Hit Play
 
 **What they see:** 10 randomly colored parts in a row.
 
 **Discussion:**
+
 - "What does `i * 5` do to the position?"
 - "What happens if you change `10` to `50`?"
 - "What if you change the step to `2`?"
@@ -120,10 +123,12 @@ print("Done!")
 ```
 
 **Key difference from `for`:**
+
 - `for` → you know how many times before you start
 - `while` → you keep going until something changes
 
-**⚠️ Warn them:** A `while true do` loop with no `task.wait()` will freeze Studio. Always include `task.wait()` inside a while loop.
+**⚠️ Warn them:** A `while true do` loop with no `task.wait()` will freeze Studio. Always include
+`task.wait()` inside a while loop.
 
 ```lua
 -- Safe infinite loop pattern
@@ -139,7 +144,7 @@ end
 
 Each kid builds a countdown timer that prints in the Output:
 
-```
+```lua
 3...
 2...
 1...
@@ -175,14 +180,13 @@ git push
 ```
 
 **Ask:**
+
 - "What's the difference between `for` and `while`?"
 - "When would you use each one?"
 
 **Next lesson:** Writing your own functions so you can reuse code anywhere.
 
-
 ---
 
-:::tip Print Reference
-[📄 Download the Lesson 06 cheatsheet](/cheatsheets/lesson-06-cheatsheet.pdf) — print it and keep it on your desk while you work.
-:::
+:::tip Print Reference [📄 Download the Lesson 06 cheatsheet](/cheatsheets/lesson-06-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::
