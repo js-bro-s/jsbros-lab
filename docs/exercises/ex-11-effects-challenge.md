@@ -6,7 +6,8 @@ sidebar_position: 11
 
 **Lesson:** 11 — Sounds & Effects | **Difficulty:** Intermediate
 
-**Goal:** Polish the Coin Collector game with sound, tweens, and particles so it feels like a real shipped game.
+**Goal:** Polish the Coin Collector game with sound, tweens, and particles so it feels like a real
+shipped game.
 
 ---
 
@@ -18,15 +19,16 @@ sidebar_position: 11
 
 Add a distinct sound for each of these events:
 
-| Event | Sound type |
-|-------|-----------|
-| Regular coin collected | Short bright click or chime |
-| Gold coin collected | Bigger, more satisfying sound |
-| Player enters Double Zone | Whoosh or power-up sound |
-| 10 seconds left on timer | Ticking or urgent sound loop |
-| Game over / winner announced | Fanfare or finish sound |
+| Event                        | Sound type                    |
+| ---------------------------- | ----------------------------- |
+| Regular coin collected       | Short bright click or chime   |
+| Gold coin collected          | Bigger, more satisfying sound |
+| Player enters Double Zone    | Whoosh or power-up sound      |
+| 10 seconds left on timer     | Ticking or urgent sound loop  |
+| Game over / winner announced | Fanfare or finish sound       |
 
 Requirements:
+
 - [ ] At least 3 different sounds implemented
 - [ ] Sounds are positional for in-world events (play from where they happen)
 - [ ] Background music plays throughout and loops cleanly
@@ -39,7 +41,8 @@ Requirements:
 Make collecting a coin feel satisfying:
 
 - [ ] Coin scales up slightly before disappearing (tween `Size` to `3,3,3` over 0.1s)
-- [ ] Coin spins continuously while on the map (use a `while true do` loop with small rotation increments, or a `BodyAngularVelocity`)
+- [ ] Coin spins continuously while on the map (use a `while true do` loop with small rotation
+      increments, or a `BodyAngularVelocity`)
 - [ ] Particle burst emits 15–20 particles on collect
 - [ ] Particles match the coin color (yellow for regular, orange for gold)
 
@@ -90,7 +93,8 @@ Before calling this done, play through the full game and check:
 
 ---
 
-**You're done when:** You can play a full round from start to winner screen with no errors and it feels polished ✅
+**You're done when:** You can play a full round from start to winner screen with no errors and it
+feels polished ✅
 
 ---
 
@@ -101,3 +105,9 @@ git add .
 git commit -m "final polish: sounds, effects, and game feel"
 git push
 ```
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 11 reference sheet (light/print)](/cheatsheets/ex-11-sheet-light.pdf) —
+tick off each item as you complete it. :::

@@ -2,7 +2,8 @@
 
 ![JS Bros Lab Banner](static/img/js-bros-lab-banner-alt.png)
 
-> A coding curriculum built for kids 9–13, taught by Dad. We learn Git, Markdown, Roblox Studio, and Lua — one lesson at a time.
+> A coding curriculum built for kids 9–13, taught by Dad. We learn Git, Markdown, Roblox Studio, and
+> Lua — one lesson at a time.
 
 **Live site:** [js-bro-s.github.io/jsbros-lab](https://js-bro-s.github.io/jsbros-lab/)
 

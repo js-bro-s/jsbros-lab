@@ -30,14 +30,17 @@ Create a file called `about-me.md` in the `jsbros-lab` repo. It must include all
 I'm 10 years old and I love Roblox and building stuff.
 
 ## My Top 3 Games
+
 - Blox Fruits
 - Brookhaven
 - Adopt Me
 
 ## What I Want to Build
+
 A Roblox game where you can collect coins and buy upgrades.
 
 ## One Thing I'm Excited About
+
 Learning how to make things move with code.
 ```
 
@@ -57,3 +60,9 @@ git push
 Then open GitHub and make sure your file shows up in the repo.
 
 **You're done when:** Your `about-me.md` is visible on GitHub ✅
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 01 reference sheet (light/print)](/cheatsheets/ex-01-sheet-light.pdf) —
+tick off each item as you complete it. :::

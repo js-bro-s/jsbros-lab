@@ -8,15 +8,18 @@ sidebar_position: 4
 
 - **Duration:** 60–75 minutes
 - **Prereq:** Lessons 1–3 complete, Roblox Studio open with their place file
-- **Goal:** Kids write their first working Lua scripts — print messages, use variables, react to events
+- **Goal:** Kids write their first working Lua scripts — print messages, use variables, react to
+  events
 
 ---
 
 ## 0–5 min — What Is a Script?
 
-> "A script is instructions you give the game. Without scripts, nothing moves, nothing happens, nothing reacts. Scripts are the brain."
+> "A script is instructions you give the game. Without scripts, nothing moves, nothing happens,
+> nothing reacts. Scripts are the brain."
 
 Show the two script locations:
+
 - **ServerScriptService** → runs on the server (everyone sees it)
 - **StarterPlayerScripts** → runs for each player individually
 
@@ -38,17 +41,20 @@ print("Hello from JS Bros!")
 print("My name is " .. game.Players.LocalPlayer.Name)
 ```
 
-5. Hit **Play** (`F5`)
-6. Look at the **Output** panel
+1. Hit **Play** (`F5`)
+2. Look at the **Output** panel
 
 **Expected output:**
-```
+
+```lua
 Hello from JS Bros!
 ```
 
-> Note: `LocalPlayer` won't work in a server script — teach them to see the error and understand why. This is intentional.
+> Note: `LocalPlayer` won't work in a server script — teach them to see the error and understand
+> why. This is intentional.
 
 **Fix it together:**
+
 ```lua
 print("Hello from JS Bros!")
 
@@ -79,6 +85,7 @@ print(playerName .. " has a score of " .. score)
 ```
 
 **Rules to teach:**
+
 - Always start with `local`
 - Names can't have spaces — use `camelCase`
 - `..` connects strings together (called concatenation)
@@ -86,7 +93,8 @@ print(playerName .. " has a score of " .. score)
 **Exercise:** Each kid creates 3 variables about themselves and prints a sentence using all three.
 
 Example output:
-```
+
+```lua
 Jaxon is 12 years old and their favorite game is Blox Fruits
 ```
 
@@ -107,6 +115,7 @@ end
 ```
 
 **Walk through it line by line:**
+
 - `if` → "Is this true?"
 - `then` → "If yes, do this"
 - `elseif` → "Or maybe this is true?"
@@ -136,9 +145,10 @@ end
 part.Touched:Connect(onTouch)
 ```
 
-4. Hit **Play** and walk into the part
+1. Hit **Play** and walk into the part
 
 **Explain:**
+
 - `script.Parent` → the part this script lives inside
 - `onTouch` → a function that runs when something touches the part
 - `hit` → whatever touched it (usually a player's limb)
@@ -156,8 +166,14 @@ git push
 ```
 
 **Wrap up discussion:**
+
 - "What's a variable?"
 - "What does `local` mean?"
 - "What is an event?"
 
 **Next lesson:** Loops, functions, and building a simple scoring system.
+
+---
+
+:::tip Print Reference [📄 Download the Lesson 05 cheatsheet](/cheatsheets/lesson-05-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

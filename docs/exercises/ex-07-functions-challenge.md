@@ -18,11 +18,12 @@ In Roblox Studio → `ServerScriptService` → new Script → name it `Functions
 
 ## Part 1 — Write a Greeting Function
 
-Write a function called `greetPlayer` that takes two parameters: `name` (string) and `score` (number).
+Write a function called `greetPlayer` that takes two parameters: `name` (string) and `score`
+(number).
 
 It should print:
 
-```
+```text
 Welcome back, Jaxon! Your score is 42.
 ```
 
@@ -38,16 +39,16 @@ Call it 3 times with different names and scores.
 
 Write a function called `getRank` that takes a `score` number and returns a rank string:
 
-| Score | Rank |
-|-------|------|
-| 50+ | `"Gold"` |
-| 30+ | `"Silver"` |
-| 10+ | `"Bronze"` |
+| Score    | Rank         |
+| -------- | ------------ |
+| 50+      | `"Gold"`     |
+| 30+      | `"Silver"`   |
+| 10+      | `"Bronze"`   |
 | below 10 | `"Unranked"` |
 
 Then call `greetPlayer` but update it to also print the rank:
 
-```
+```lua
 Welcome back, Marcus! Your score is 35. Rank: Silver
 ```
 
@@ -91,7 +92,8 @@ part3.Parent = workspace
 
 ## Bonus
 
-Add an optional third parameter to your `spawnPart` function for `color` — if no color is passed, default to `BrickColor.Random()`.
+Add an optional third parameter to your `spawnPart` function for `color` — if no color is passed,
+default to `BrickColor.Random()`.
 
 ```lua
 -- Hint: default parameters in Lua
@@ -104,3 +106,9 @@ end
 ---
 
 **You're done when:** All 3 parts work and the refactored script is cleaner than the original ✅
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 07 reference sheet (light/print)](/cheatsheets/ex-07-sheet-light.pdf) —
+tick off each item as you complete it. :::

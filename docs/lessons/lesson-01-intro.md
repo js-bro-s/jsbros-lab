@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# JS Bros Lab — Lesson 1  
+# JS Bros Lab — Lesson 1
 
 ![JS Bros Banner](../../static/img/js-bros-lab-banner-alt.png)
 
 ## Getting Started: What We’re Building & How We Work
 
-- **Duration:** 60 minutes  
-- **Audience:** Beginners (kids)  
-- **Role:** Dad as teacher, kids as students  
+- **Duration:** 60 minutes
+- **Audience:** Beginners (kids)
+- **Role:** Dad as teacher, kids as students
 - **Tone:** Calm, curious, hands-on
 
 ---
@@ -22,11 +22,12 @@ sidebar_position: 1
 - Everyone sits at their desks
 - Screens on, hands off keyboard
 - Explain:
-  - This is *lab time*
+  - This is _lab time_
   - We build slowly and intentionally
   - Mistakes are expected and allowed
 
-**Key phrase:**  
+**Key phrase:**
+
 > “Nothing breaks forever in a lab.”
 
 ---
@@ -43,7 +44,8 @@ sidebar_position: 1
 - Show the GitHub organization page
 - Show the list of repositories
 
-**Kid-friendly framing:**  
+**Kid-friendly framing:**
+
 > “This is our shared digital notebook.”
 
 ---
@@ -91,10 +93,16 @@ sidebar_position: 1
 
 Choose **one**:
 
-- Clone the repository locally  
+- Clone the repository locally
 - OR create a new folder with a README
 
 Example command:
 
 ```bash
 git clone https://github.com/js-bros/jsbros-lab.git
+```
+
+---
+
+:::tip Print Reference [📄 Download the Lesson 01 cheatsheet](/cheatsheets/lesson-01-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

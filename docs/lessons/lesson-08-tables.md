@@ -26,8 +26,8 @@ local player4 = "Tyler"
 local player5 = "Ava"
 ```
 
-> "That works for 5. What about 50? What if you don't know how many there will be?"
-> "Tables let you store a whole list in one variable."
+> "That works for 5. What about 50? What if you don't know how many there will be?" "Tables let you
+> store a whole list in one variable."
 
 ---
 
@@ -80,7 +80,8 @@ end
 ```
 
 **Output:**
-```
+
+```lua
 1: apple
 2: banana
 3: mango
@@ -97,7 +98,8 @@ end
 
 > "`ipairs` gives you both the position AND the value at the same time. Use this for lists."
 
-**Activity:** Each kid creates a table of their top 5 Roblox games and prints them in a numbered list.
+**Activity:** Each kid creates a table of their top 5 Roblox games and prints them in a numbered
+list.
 
 ---
 
@@ -121,7 +123,8 @@ player.score = player.score + 10
 print(player.score)    -- 10
 ```
 
-**Activity:** Each kid creates a `character` table with at least 4 fields and a function that prints a summary:
+**Activity:** Each kid creates a `character` table with at least 4 fields and a function that prints
+a summary:
 
 ```lua
 local function showCharacter(character)
@@ -165,7 +168,13 @@ git push
 ```
 
 **Ask:**
+
 - "What's the difference between a list table and a key-value table?"
 - "When would you use `ipairs` vs `pairs`?"
 
 **Next lesson:** We put everything together and build a real mini game.
+
+---
+
+:::tip Print Reference [📄 Download the Lesson 08 cheatsheet](/cheatsheets/lesson-08-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

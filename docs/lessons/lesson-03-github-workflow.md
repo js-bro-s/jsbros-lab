@@ -15,6 +15,7 @@ sidebar_position: 2
 ## 0–5 min — Recap
 
 Ask the group:
+
 - "What is a repository?"
 - "What does a commit do?"
 - "Where does GitHub store it?"
@@ -42,6 +43,7 @@ git push            # Send to GitHub
 - `git push` → "Sends your photo to the cloud"
 
 **Key phrase:**
+
 > "Status. Add. Commit. Push. In that order. Every time."
 
 ---
@@ -82,7 +84,9 @@ git push -u origin jaxon-ideas
 ```
 
 **Why this matters:**
-> "A branch is your own sandbox. You can experiment without breaking the main project. When it's ready, Dad reviews it and merges it in."
+
+> "A branch is your own sandbox. You can experiment without breaking the main project. When it's
+> ready, Dad reviews it and merges it in."
 
 ---
 
@@ -103,8 +107,15 @@ Everyone picks one of these and commits it:
 Review each person's GitHub — everyone should see at least 2 commits.
 
 **Discussion:**
+
 - "Why do we write good commit messages?"
 - "What would happen if two people edited the same file?"
 
 **Key phrase for next time:**
+
 > "Next lesson we open Roblox Studio."
+
+---
+
+:::tip Print Reference [📄 Download the Lesson 03 cheatsheet](/cheatsheets/lesson-03-cheatsheet.pdf)
+— print it and keep it on your desk while you work. :::

@@ -52,7 +52,8 @@ git status
 ### Checkpoint 3 — Edit and Commit Again
 
 1. Open `ideas.md` and add 2 more ideas
-2. Also add a `##` heading called `My Favourite Idea` and write one sentence about which idea is your favourite
+2. Also add a `##` heading called `My Favourite Idea` and write one sentence about which idea is
+   your favourite
 3. Commit with the message: `update ideas with favourite`
 
 - [ ] File edited
@@ -87,8 +88,15 @@ git log --oneline
 
 ## Bonus
 
-Switch back to `main` and look at the difference between `main` and your branch on GitHub's branch selector. Notice that `experiment.md` doesn't exist on `main`.
+Switch back to `main` and look at the difference between `main` and your branch on GitHub's branch
+selector. Notice that `experiment.md` doesn't exist on `main`.
 
 ---
 
 **You're done when:** All 5 checkpoints are ticked ✅
+
+---
+
+:::tip Print this Exercise
+[📄 Download the Exercise 03 reference sheet (light/print)](/cheatsheets/ex-03-sheet-light.pdf) —
+tick off each item as you complete it. :::

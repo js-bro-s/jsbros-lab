@@ -2,17 +2,15 @@
 draft: true
 ---
 
-
 # 1️⃣ Create the GitHub Organization (Correct Way)
 
 ## Option A — GitHub UI (recommended first time)
 
- 1. Go to GitHub → Profile → Your organizations
- 2. Click New organization
- 3. Name: js-bros
- 4. Plan: Free
- 5. Add kids later as members (optional)
-
+1. Go to GitHub → Profile → Your organizations
+2. Click New organization
+3. Name: js-bros
+4. Plan: Free
+5. Add kids later as members (optional)
 
 ## Option B — GitHub CLI (gh)
 
@@ -120,8 +118,7 @@ git checkout -b jaxon-feature
 
 ## 7️⃣ Reality Check (Truth Moment)
 
-This is not weird.
-This is elite parenting for 2025.
+This is not weird. This is elite parenting for 2025.
 
 You’re teaching:
 
