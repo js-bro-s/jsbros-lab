@@ -12,8 +12,8 @@ Update this file after each lesson. Check off what's been completed.
 
 | Name     | Started | GitHub username |
 | -------- | ------- | --------------- |
-| Jonathan | ✅      | jonniedollasjr  |
-| Jaxon    | ✅      | jaxondollas     |
+| Jonathan | ✅       | jonniedollasjr  |
+| Jaxon    | ✅       | jaxondollas     |
 
 ---
 
@@ -23,8 +23,8 @@ Update this file after each lesson. Check off what's been completed.
 
 | Student  | Completed | Notes                                      |
 | -------- | --------- | ------------------------------------------ |
-| Jonathan | ✅        | Need to setup OSX CMD on windows keyboard  |
-| Jaxon    | ✅        | Need to set `git bash` as default terminal |
+| Jonathan | ✅         | Need to setup OSX CMD on windows keyboard  |
+| Jaxon    | ✅         | Need to set `git bash` as default terminal |
 
 > **Skills unlocked:** Understands what a repo is, what a commit does, and why we use GitHub. Cloned
 > a repo locally.
@@ -33,10 +33,10 @@ Update this file after each lesson. Check off what's been completed.
 
 ### Lesson 02 — Writing with Markdown
 
-| Student  | Completed | Notes |
-| -------- | --------- | ----- |
-| Jonathan | ☐         |       |
-| Jaxon    | ☐         |       |
+| Student  | Completed | Notes                                                                          |
+| -------- | --------- | ------------------------------------------------------------------------------ |
+| Jonathan | ✅         | Need to help understand headings, sub-sections, lists and when and why to use. |
+| Jaxon    | ✅         | Need to help understand headings, sub-sections, lists and when and why to use  |
 
 > **Skills unlocked:** Headings, lists, bold/italic, code blocks, links, images. Wrote a proper
 > README.
@@ -155,7 +155,7 @@ Update this file after each lesson. Check off what's been completed.
 
 | Exercise                   | Jonathan | Jaxon | Bonus |
 | -------------------------- | -------- | ----- | ----- |
-| Ex 01 · About Me           | ✅       | ✅    | —     |
+| Ex 01 · About Me           | ✅        | ✅     | —     |
 | Ex 02 · Markdown Challenge | ☐        | ☐     | ☐     |
 | Ex 03 · Git Practice       | ☐        | ☐     | ☐     |
 | Ex 04 · Studio Build       | ☐        | ☐     | ☐     |
@@ -173,8 +173,8 @@ Update this file after each lesson. Check off what's been completed.
 
 Award these after a student demonstrates the skill unprompted.
 
-| Badge           | What It Means                                           | Jonathan | Jaxon | Date |
-| --------------- | ------------------------------------------------------- | -------- | ----- | ---- |
+| Badge          | What It Means                                           | Jonathan | Jaxon | Date |
+| -------------- | ------------------------------------------------------- | -------- | ----- | ---- |
 | 🖥️ First Commit | Pushed code to GitHub on their own                      |          |       |      |
 | 📝 Documenter   | Wrote a clear commit message without being told         |          |       |      |
 | 🧠 Debugger     | Found and fixed a script error independently            |          |       |      |
